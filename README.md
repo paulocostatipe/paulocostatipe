@@ -1,2 +1,2 @@
 - 👋 Fala Pessoal, aqui irei colocar Scripts que uso no meu dia a dia. @paulocostatipe
-- 👀 Para quem ainda não conhece meu Blog: paulocostati.com
+- 👀 Para quem ainda não conhece meu Blog: paulocostati.com.br

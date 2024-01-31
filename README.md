@@ -12,9 +12,6 @@
 
 <br>
 
-- Provavelmente estou trabalhando ou estudando 👨‍💻
-- Estou aprendendo no momento scripts para automatizar problemas no Powershekk
-
 
 <br>
 
